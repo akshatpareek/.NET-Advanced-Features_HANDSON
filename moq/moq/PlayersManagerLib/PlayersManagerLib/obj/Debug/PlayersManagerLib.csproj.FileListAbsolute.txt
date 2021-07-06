@@ -1,0 +1,6 @@
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.pdb
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.AssemblyReference.cache
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.pdb

@@ -1,0 +1,32 @@
+C:\Users\gaurav kumbhare\source\repos\multithreading\multithreading\bin\Debug\net5.0\multithreading.exe
+C:\Users\gaurav kumbhare\source\repos\multithreading\multithreading\bin\Debug\net5.0\multithreading.deps.json
+C:\Users\gaurav kumbhare\source\repos\multithreading\multithreading\bin\Debug\net5.0\multithreading.runtimeconfig.json
+C:\Users\gaurav kumbhare\source\repos\multithreading\multithreading\bin\Debug\net5.0\multithreading.runtimeconfig.dev.json
+C:\Users\gaurav kumbhare\source\repos\multithreading\multithreading\bin\Debug\net5.0\multithreading.dll
+C:\Users\gaurav kumbhare\source\repos\multithreading\multithreading\bin\Debug\net5.0\ref\multithreading.dll
+C:\Users\gaurav kumbhare\source\repos\multithreading\multithreading\bin\Debug\net5.0\multithreading.pdb
+C:\Users\gaurav kumbhare\source\repos\multithreading\multithreading\obj\Debug\net5.0\multithreading.csprojAssemblyReference.cache
+C:\Users\gaurav kumbhare\source\repos\multithreading\multithreading\obj\Debug\net5.0\multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaurav kumbhare\source\repos\multithreading\multithreading\obj\Debug\net5.0\multithreading.AssemblyInfoInputs.cache
+C:\Users\gaurav kumbhare\source\repos\multithreading\multithreading\obj\Debug\net5.0\multithreading.AssemblyInfo.cs
+C:\Users\gaurav kumbhare\source\repos\multithreading\multithreading\obj\Debug\net5.0\multithreading.csproj.CoreCompileInputs.cache
+C:\Users\gaurav kumbhare\source\repos\multithreading\multithreading\obj\Debug\net5.0\multithreading.dll
+C:\Users\gaurav kumbhare\source\repos\multithreading\multithreading\obj\Debug\net5.0\ref\multithreading.dll
+C:\Users\gaurav kumbhare\source\repos\multithreading\multithreading\obj\Debug\net5.0\multithreading.pdb
+C:\Users\gaurav kumbhare\source\repos\multithreading\multithreading\obj\Debug\net5.0\multithreading.genruntimeconfig.cache
+C:\Users\aksha\Downloads\multithreading2\multithreading2\multithreading\bin\Debug\net5.0\multithreading.exe
+C:\Users\aksha\Downloads\multithreading2\multithreading2\multithreading\bin\Debug\net5.0\multithreading.deps.json
+C:\Users\aksha\Downloads\multithreading2\multithreading2\multithreading\bin\Debug\net5.0\multithreading.runtimeconfig.json
+C:\Users\aksha\Downloads\multithreading2\multithreading2\multithreading\bin\Debug\net5.0\multithreading.runtimeconfig.dev.json
+C:\Users\aksha\Downloads\multithreading2\multithreading2\multithreading\bin\Debug\net5.0\multithreading.dll
+C:\Users\aksha\Downloads\multithreading2\multithreading2\multithreading\bin\Debug\net5.0\ref\multithreading.dll
+C:\Users\aksha\Downloads\multithreading2\multithreading2\multithreading\bin\Debug\net5.0\multithreading.pdb
+C:\Users\aksha\Downloads\multithreading2\multithreading2\multithreading\obj\Debug\net5.0\multithreading.csproj.AssemblyReference.cache
+C:\Users\aksha\Downloads\multithreading2\multithreading2\multithreading\obj\Debug\net5.0\multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksha\Downloads\multithreading2\multithreading2\multithreading\obj\Debug\net5.0\multithreading.AssemblyInfoInputs.cache
+C:\Users\aksha\Downloads\multithreading2\multithreading2\multithreading\obj\Debug\net5.0\multithreading.AssemblyInfo.cs
+C:\Users\aksha\Downloads\multithreading2\multithreading2\multithreading\obj\Debug\net5.0\multithreading.csproj.CoreCompileInputs.cache
+C:\Users\aksha\Downloads\multithreading2\multithreading2\multithreading\obj\Debug\net5.0\multithreading.dll
+C:\Users\aksha\Downloads\multithreading2\multithreading2\multithreading\obj\Debug\net5.0\ref\multithreading.dll
+C:\Users\aksha\Downloads\multithreading2\multithreading2\multithreading\obj\Debug\net5.0\multithreading.pdb
+C:\Users\aksha\Downloads\multithreading2\multithreading2\multithreading\obj\Debug\net5.0\multithreading.genruntimeconfig.cache

@@ -1,0 +1,52 @@
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\obj\Debug\DirectoryExplorer.Tests.csproj.AssemblyReference.cache
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\obj\Debug\DirectoryExplorer.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\nunit.engine.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\nunit.engine.core.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\DirectoryExplorer.Tests.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\DirectoryExplorer.Tests.pdb
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\MagicFilesLib.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\Moq.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\MagicFilesLib.pdb
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\Moq.xml
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\obj\Debug\DirectoryExplorer.Tests.csproj.CopyComplete
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\obj\Debug\DirectoryExplorer.Tests.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\DirectoryExplorer.Tests\obj\Debug\DirectoryExplorer.Tests.pdb
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\NUnit3.TestAdapter.dll
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\nunit.engine.dll
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\nunit.engine.api.dll
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\nunit.engine.core.dll
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\testcentric.engine.metadata.dll
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\DirectoryExplorer.Tests.dll
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\DirectoryExplorer.Tests.pdb
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\Castle.Core.dll
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\MagicFilesLib.dll
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\Moq.dll
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\nunit.framework.dll
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\Castle.Core.xml
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\MagicFilesLib.pdb
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\Moq.xml
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\nunit.framework.xml
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\obj\Debug\DirectoryExplorer.Tests.csproj.AssemblyReference.cache
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\obj\Debug\DirectoryExplorer.Tests.csproj.CoreCompileInputs.cache
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\obj\Debug\DirectoryExplorer.Tests.csproj.CopyComplete
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\obj\Debug\DirectoryExplorer.Tests.dll
+E:\DotNet\moq\moq\MagicFilesLib\DirectoryExplorer.Tests\obj\Debug\DirectoryExplorer.Tests.pdb

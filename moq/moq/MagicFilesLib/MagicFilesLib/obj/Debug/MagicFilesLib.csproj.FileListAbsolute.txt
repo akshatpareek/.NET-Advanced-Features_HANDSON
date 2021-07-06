@@ -1,0 +1,10 @@
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.pdb
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.csproj.CoreCompileInputs.cache
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.pdb
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.pdb
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.csproj.CoreCompileInputs.cache
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.dll
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\moq\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.pdb
