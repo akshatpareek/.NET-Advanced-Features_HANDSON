@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Organisations";
+}
+
+
+@foreach (var item in ViewBag.Oranisation)
+{
+    <div>
+        <ul>
+            <li>
+                @if (item == "Amazon")
+                {
+                    <b> @item </b>
+                }
+                else
+                {
+                    @item
+                }
+            </li>
+
+            </ul>
+    </div>
+}
