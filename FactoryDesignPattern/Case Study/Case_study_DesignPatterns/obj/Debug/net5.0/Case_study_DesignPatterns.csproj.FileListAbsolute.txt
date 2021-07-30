@@ -1,0 +1,16 @@
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesignPatterns\bin\Debug\net5.0\Case_study_DesignPatterns.exe
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesignPatterns\bin\Debug\net5.0\Case_study_DesignPatterns.deps.json
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesignPatterns\bin\Debug\net5.0\Case_study_DesignPatterns.runtimeconfig.json
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesignPatterns\bin\Debug\net5.0\Case_study_DesignPatterns.runtimeconfig.dev.json
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesignPatterns\bin\Debug\net5.0\Case_study_DesignPatterns.dll
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesignPatterns\bin\Debug\net5.0\ref\Case_study_DesignPatterns.dll
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesignPatterns\bin\Debug\net5.0\Case_study_DesignPatterns.pdb
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesignPatterns\obj\Debug\net5.0\Case_study_DesignPatterns.csprojAssemblyReference.cache
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesignPatterns\obj\Debug\net5.0\Case_study_DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesignPatterns\obj\Debug\net5.0\Case_study_DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesignPatterns\obj\Debug\net5.0\Case_study_DesignPatterns.AssemblyInfo.cs
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesignPatterns\obj\Debug\net5.0\Case_study_DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesignPatterns\obj\Debug\net5.0\Case_study_DesignPatterns.dll
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesignPatterns\obj\Debug\net5.0\ref\Case_study_DesignPatterns.dll
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesignPatterns\obj\Debug\net5.0\Case_study_DesignPatterns.pdb
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesignPatterns\obj\Debug\net5.0\Case_study_DesignPatterns.genruntimeconfig.cache

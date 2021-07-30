@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Case_study_DesignPatterns/1.0.0": {
+        "runtime": {
+          "Case_study_DesignPatterns.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Case_study_DesignPatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
